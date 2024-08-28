@@ -1,0 +1,7 @@
+.container {
+    background-color: #f1f5f9;
+    min-height: 100vh; /* Ensure container covers at least the viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

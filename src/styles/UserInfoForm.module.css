@@ -1,0 +1,78 @@
+.userInfoFormContainer {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.userInfoHeader {
+    font-size: 1.2rem;
+    width: 100%;
+    height: 3rem;
+    background-color: #23096C;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 1rem;
+    border-radius: 5px 5px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.userInfoForm {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1.5rem;
+}
+
+.userInfoFormTitle {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.userInfoLabel {
+    font-size: 1rem;
+    color: #23096C;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.userInfoInput {
+    padding: 0.75rem;
+    margin-bottom: 1.5rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #efefef;
+    text-align: center;
+    width: 10rem;
+}
+
+.userInfoButton {
+    padding: 0.75rem;
+    background-color: #28a745;
+    color: white;
+    width: 10rem;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    justify-content: center;
+    transition: background-color 0.3s;
+}
+
+.userInfoButton:hover {
+    background-color: #218838;
+}
+
+.userInfoFormCenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
