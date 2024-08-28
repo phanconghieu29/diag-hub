@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diag-hub/static/css/main.1f6d63cf.css",
+    "main.js": "/diag-hub/static/js/main.89b27a44.js",
+    "static/js/453.4f100c95.chunk.js": "/diag-hub/static/js/453.4f100c95.chunk.js",
+    "index.html": "/diag-hub/index.html",
+    "main.1f6d63cf.css.map": "/diag-hub/static/css/main.1f6d63cf.css.map",
+    "main.89b27a44.js.map": "/diag-hub/static/js/main.89b27a44.js.map",
+    "453.4f100c95.chunk.js.map": "/diag-hub/static/js/453.4f100c95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6d63cf.css",
+    "static/js/main.89b27a44.js"
+  ]
+}
