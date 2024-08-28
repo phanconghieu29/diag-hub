@@ -11,7 +11,7 @@ function App() {
 
     return (
         <div className={styles.container}>
-            <Router>
+            <Router basename="/diag-hub">
                 <Routes>
                     <Route
                         path="/"
